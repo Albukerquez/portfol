@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'active_skin'
 gem 'activeadmin', github: 'activeadmin'
 gem 'coffee-rails'
 gem 'devise'
