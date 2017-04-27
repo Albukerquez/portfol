@@ -13,5 +13,10 @@ a.mail-me {
   text-decoration: none;
 }
 
-323537
-777
+a.write, a.write:focus, a.write:hover {
+     color: #b3b3b3;
+     text-decoration: underline;
+}
+a.write:hover {
+     color: #fff;
+}
