@@ -1,17 +1,17 @@
-/*!
- * Start Bootstrap - Portfolio Item (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
-body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-}
-
 .portfolio-item {
     margin-bottom: 25px;
 }
-
-footer {
-    margin: 50px 0;
+.page-header {
+  margin-top: 70px;
 }
+
+a.mail-me {
+  color: #323537;
+}
+ a.mail-me:hover, a.mail-me:focus, a.mail-me:visited{
+  color: #000000;
+  text-decoration: none;
+}
+
+323537
+777

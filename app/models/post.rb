@@ -1,5 +1,6 @@
 class Post < ApplicationRecord
   validates :title, presence: true, length: { minimum: 5 }
+  validates :subtitle, presence: true, length: { minimum: 5 }
   validates :body, presence: true
 
   has_attached_file :image, styles: { medium: "300x300>", thumb: "100x100>" }
