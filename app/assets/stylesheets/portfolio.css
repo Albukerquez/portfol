@@ -20,3 +20,17 @@ a.write, a.write:focus, a.write:hover {
 a.write:hover {
      color: #fff;
 }
+
+div.portfolio-item,div.portfolio-item:hover {
+  /* for color */
+}
+
+nav.navbar{
+  background-color:#ccc;
+   -webkit-transition: all 0.4s ease;
+   transition: all 0.4s ease;
+}
+
+nav.navbar.shrink {
+  min-height: 70px;
+}

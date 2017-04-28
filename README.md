@@ -6,3 +6,6 @@
 * make hoover on portfolio items
 * change navbar color
 * change photo
+* scrollspyjs
+* переделать layout for mobile devise
+* гемы bootstrap and fontawesome 
